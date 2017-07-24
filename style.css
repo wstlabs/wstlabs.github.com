@@ -1,4 +1,5 @@
-body { font-family:Verdana; font-size:10pt; color:#666; }
+body { font-family:Verdana; font-size:10pt; color:#444; }
+h3 { color:#000 }
 a:link    { color:#06f; text-decoration:none; } 
 a:hover   { color:#f0f; text-decoration:none; } 
 a:visited { color:#f00; text-decoration:none; } 
